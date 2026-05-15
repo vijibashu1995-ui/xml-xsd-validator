@@ -1,0 +1,27 @@
+{
+  "name": "xml-xsd-validator",
+  "version": "1.0.0",
+  "description": "Check if XML files are correct using XSD rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijibashu1995-ui/xml-xsd-validator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vijibashu1995-ui/xml-xsd-validator/issues"
+  },
+  "homepage": "https://github.com/vijibashu1995-ui/xml-xsd-validator#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "libxmljs2": "^0.37.0",
+    "multer": "^2.1.1"
+  }
+}
